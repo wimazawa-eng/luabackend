@@ -1,4 +1,4 @@
-import db from "../../_lib/db.js";
+import db from "../_lib/db.js";
 import { randomUUID } from "crypto";
 
 export default async (req, res) => {
